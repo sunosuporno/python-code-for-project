@@ -1,3 +1,4 @@
+import os
 import requests
 import re
 import nltk
@@ -9,8 +10,8 @@ from bs4 import BeautifulSoup
 nltk.download('punkt')
 nltk.download('stopwords')
 
-def preprocess_webpage(url):
-    # Fetch content from the URL
+def preprocess_webpages(output_folder):
+    # Fetch content from a URL
     def fetch_text_from_webpage(url):
         response = requests.get(url)
         if response.status_code == 200:
@@ -36,23 +37,42 @@ def preprocess_webpage(url):
 
         return " ".join(tokens)  # Join tokens into a single string
 
-    # Main preprocessing function
-    webpage_text = fetch_text_from_webpage(url)
-    if webpage_text:
-        soup = BeautifulSoup(webpage_text, 'html.parser')
-        plain_text = soup.get_text()
-        preprocessed_text = clean_and_preprocess_text(plain_text)
-        return preprocessed_text
-    else:
-        return None
+    # Create the output folder if it doesn't exist
+    if not os.path.exists(output_folder):
+        os.makedirs(output_folder)
+
+    # Read the list of URLs from "links.txt"
+    with open("links.txt", "r") as links_file:
+        urls = links_file.read().splitlines()
+
+    for url in urls:
+        # Main preprocessing function for each URL
+        webpage_text = fetch_text_from_webpage(url)
+        if webpage_text:
+            soup = BeautifulSoup(webpage_text, 'html.parser')
+            plain_text = soup.get_text()
+            preprocessed_text = clean_and_preprocess_text(plain_text)
+
+            # Find the last document number
+            file_list = os.listdir(output_folder)
+            file_list = [file for file in file_list if file.startswith("preprocessed_webpage")]
+            file_numbers = [int(re.search(r'\d+', file).group()) for file in file_list]
+            if file_numbers:
+                new_file_number = max(file_numbers) + 1
+            else:
+                new_file_number = 1
+
+            # Define the new filename
+            new_filename = f"preprocessed_webpage{new_file_number}.txt"
+            new_filepath = os.path.join(output_folder, new_filename)
+
+            # Save preprocessed text to the new file
+            with open(new_filepath, "w") as file:
+                file.write(preprocessed_text)
+            print(f"Preprocessed text from '{url}' saved to '{new_filename}'")
+        else:
+            print(f"Failed to fetch or preprocess the content from '{url}'.")
 
 # Example usage
-webpage_url = 'https://indiankanoon.org/doc/148743692/'  # Replace with your actual URL
-preprocessed_text = preprocess_webpage(webpage_url)
-if preprocessed_text:
-    # Save preprocessed text to a text file
-    with open("preprocessed_webpage2.txt", "w") as file:
-        file.write(preprocessed_text)
-    print("Preprocessed text saved to 'preprocessed_webpage2.txt'")
-else:
-    print("Failed to fetch or preprocess the content from the webpage.")
+output_folder = 'preprocessed_data'  # Folder where the preprocessed files will be stored
+preprocess_webpages(output_folder)

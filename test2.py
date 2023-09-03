@@ -21,7 +21,7 @@ def extract_features(tokens, keywords):
     return keyword_counts
 
 if __name__ == "__main__":
-    input_filename = "preprocessed_webpage2.txt"  # Replace with the path to your tokenized input text file
+    input_filename = "preprocessed_webpage4.txt"  # Replace with the path to your tokenized input text file
     
     # Read the tokenized input from the text file
     with open(input_filename, "r") as file:
