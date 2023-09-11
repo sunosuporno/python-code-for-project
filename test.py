@@ -73,6 +73,6 @@ def preprocess_webpages(output_folder):
         else:
             print(f"Failed to fetch or preprocess the content from '{url}'.")
 
-# Example usage
-output_folder = 'preprocessed_data'  # Folder where the preprocessed files will be stored
+
+output_folder = 'preprocessed_data' 
 preprocess_webpages(output_folder)

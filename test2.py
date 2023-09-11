@@ -1,6 +1,6 @@
 import nltk
 from nltk import FreqDist
-nltk.download('punkt')  # Download the necessary resources if not already downloaded
+nltk.download('punkt')  
 
 def preprocess_text(text):
     # Tokenize the input text

@@ -12,7 +12,7 @@ nltk.download('stopwords')
 def preprocess_text(text):
     # Clean and preprocess text
     text = text.lower()
-    text = re.sub(r'\s+', ' ', text)  # Replace multiple spaces with a single space
+    text = re.sub(r'\s+', ' ', text) 
 
     # Tokenization
     tokens = nltk.word_tokenize(text)
@@ -54,7 +54,6 @@ def count_words_and_numbers(folder_path):
 
     return frequent_words, frequent_numbers
 
-# Example usage
 folder_path = 'preprocessed_data'  # Folder where the preprocessed files are stored
 frequent_words, frequent_numbers = count_words_and_numbers(folder_path)
 
