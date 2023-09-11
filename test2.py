@@ -31,11 +31,11 @@ if __name__ == "__main__":
     keywords = [
         "cyberbully", "harassment", "porn", "sextort",
         "stalk", "grooming", "digital abuse", "dox", "doxx", "Intimate image abuse", "identity theft",
-        "phish", "fraud", "catfish", "radical", "insurrect", "terrorist sympathizer", "violent overthrow",
-        "traffick", "extort", "cyber", "cybercrime", "499", "509", "507", "303"
-        "hate", "speech", "misogyn", "cyber stalk", "troll", "secess", "treason", "sedit"
-        "voyeur", "manipulat", "imperson" , "Cyberattack", "Darkweb", "Databreach", "Phishing",
-        "Malware", "Internet fraud", "theft", "DOS", "Ransomware", "Hacking", "Carding", "Information security", "67", "66", "botnet", "354", "Anti-national"
+        "phish", "fraud", "catfish",  "radical", "insurrect", "terrorist sympathizer", "violent overthrow",
+        "trafficking", "extort", "cyber", "cybercrime", "499", "509", "507", "303"
+        "hate", "speech", "misogyn", "cyber stalk", "troll", "troll", "secess", "treason", "sedit"
+        "voyeur", "manipulat", "imperson" ,"Cyberattack","Darkweb","Databreach","Phishing",
+        "Malware", "theft", "DOS", "Ransomware","Internetfraud","theft", "Clickjacking","Spoofing","Deepfakes", "Hacking", "Carding", "Information security", "67", "66", "botnet", "354", "Anti-national"
         ]
     
     # Preprocess the input text
