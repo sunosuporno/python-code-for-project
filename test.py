@@ -76,3 +76,33 @@ def preprocess_webpages(output_folder):
 # Example usage
 output_folder = 'preprocessed_data'  # Folder where the preprocessed files will be stored
 preprocess_webpages(output_folder)
+
+
+"""
+https://indiankanoon.org/doc/78724635/
+https://indiankanoon.org/doc/62111311/
+https://indiankanoon.org/doc/15749014/
+https://indiankanoon.org/doc/131833088/
+https://indiankanoon.org/doc/116958455/
+https://indiankanoon.org/doc/29610717/
+https://indiankanoon.org/doc/164902416/
+https://indiankanoon.org/doc/115830876/
+https://indiankanoon.org/doc/73866393/
+https://indiankanoon.org/doc/810217/
+https://indiankanoon.org/doc/84956611/
+https://indiankanoon.org/doc/53997832/
+https://indiankanoon.org/doc/1036814/
+https://indiankanoon.org/doc/116159756/
+https://indiankanoon.org/doc/142233676/
+https://indiankanoon.org/doc/79551006/
+https://indiankanoon.org/doc/100493410/
+https://indiankanoon.org/doc/151168168/
+https://indiankanoon.org/doc/72413080/
+https://indiankanoon.org/doc/175854279/
+https://indiankanoon.org/doc/110121958/
+"""
+
+
+
+
+

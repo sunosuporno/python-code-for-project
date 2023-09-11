@@ -29,13 +29,12 @@ if __name__ == "__main__":
     
     # List of keywords
     keywords = [
-        "cyberbully", "online harassment", "porn", "sextort",
+        "cyberbully", "harassment", "porn", "sextort",
         "stalk", "grooming", "digital abuse", "dox", "doxx", "Intimate image abuse", "identity theft",
-        "phish", "online fraud", "catfish", "dating",
-        "online trafficking", "online exploitation", "cyber", "cybercrime"
-        "hate speech", "misogyny", "cyber stalk", "troll",
-        "voyeurism", "digital manipulation", "impersonation",
-        "online vigilante justice", "354 A", "354 a", "354 D", "345 d", "354 C", "354 c"    
+        "phish", "fraud", "catfish", "dating",
+        "trafficking", "extort", "cyber", "cybercrime", "cyber-crime"
+        "hate", "speech", "misogyn", "cyber-stalk", "cyber stalk", "troll",
+        "voyeur", "manipulat", "imperson"  
         ]
     
     # Preprocess the input text
