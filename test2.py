@@ -35,7 +35,7 @@ if __name__ == "__main__":
         "trafficking", "extort", "cyber", "cybercrime", "cyber-crime"
         "hate", "speech", "misogyn", "cyber-stalk", "cyber stalk", "troll",
         "voyeur", "manipulat", "imperson" ,"Cyberattack","Darkweb","Databreach","Phishing",
-        "Malware","Ransomware","Internetfraud","theft" 
+        "Malware","Ransomware","Internetfraud","theft" ,"Ransomware","Clickjacking","Spoofing","Deepfakes"
         ]
     
     # Preprocess the input text
