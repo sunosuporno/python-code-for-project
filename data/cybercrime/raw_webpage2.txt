@@ -1,0 +1,308 @@
+
+
+
+
+
+
+
+
+
+
+Rounak Kumar Bansal vs State on 28 January, 2022
+
+
+
+Share Link
+Mobile View
+
+
+
+Premium Members
+Advanced Search
+Case Removal
+
+
+
+
+
+
+
+
+ Cites 7 docs 
+      
+        - [View All]
+      
+      
+The Income- Tax Act,   1995
+Section 120B in The Indian Penal Code
+Section 34 in The Indian Penal Code
+Section 471 in The Indian Penal Code
+Section 468 in The Indian Penal Code
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Warning on Translation
+
+
+
+
+
+Take notes as you read a judgment using our Virtual Legal Assistant and get email alerts whenever a new judgment matches your query (Query Alert Service). Try out our Premium Member services -- Free for one month.
+
+Delhi High Court - Orders
+Rounak Kumar Bansal vs State on 28 January, 2022                              $~6, 9 & 10
+                              *      IN THE HIGH COURT OF DELHI AT NEW DELHI
+                              +      BAIL APPLN. 4203/2021 &
+                                     CRL.M.A. 18959/2021 (exemption)
+                                     ROUNAK KUMAR BANSAL                                        ..... Petitioner
+                                                     Represented by:           Mr Mohit Ramdeo, Advocate.
+
+                                                             versus
+
+                                     STATE                                             ..... Respondent
+                                                     Represented by: Mr Ravi Nayak, APP for the State
+                                                                     with Insp Parveen Kumar Cyber
+                                                                     Crime Unit, Special Cell.
+                                                                  WITH
+                              9.
+                              +      BAIL APPLN. 4368/2021
+                                     S.K.ROBIN                                                  ..... Petitioner
+                                                     Represented by:           Mr M. K. Perwez, Advocate.
+
+                                                             versus
+
+                                     STATE GOVT. OF NCT OF DELHI               ..... Respondent
+                                             Represented by: Mr Ravi Nayak, APP for the State
+                                                             with Insp Parveen Kumar Cyber
+                                                             Crime Unit, Special Cell.
+                                                           AND
+                              10.
+                              +      BAIL APPLN. 4376/2021
+                                     S.K. RAMIZUDDIN NAWAZ                                      ..... Petitioner
+                                                     Represented by:           Mr M. K. Perwez, Advocate.
+
+                                                             versus
+
+                                     STATE GOVT OF NCT OF DELHI                                 ..... Respondent
+
+
+Signature Not Verified
+Digitally Signed By:JUSTICE
+MUKTA GUPTA                   BAIL APPLN.4203/2021 & other connected matters                          Page 1 of 7
+Signing Date:29.01.2022
+12:08:02
+                                                      Represented by:           Mr Ravi Nayak, APP for the State
+                                                                               with Insp Parveen Kumar Cyber
+                                                                               Crime Unit, Special Cell.
+
+                                     CORAM:
+                                     HON'BLE MS. JUSTICE MUKTA GUPTA
+                                             ORDER
+                              %              28.01.2022
+                                     The hearing has been conducted through video conferencing.
+                              1.     By these petitions, the petitioners seek regular bail in case FIR
+                              No.0141/2021 under Sections 419/420/468/471/34/120B IPC and Section
+                              66D IT Act registered at PS Special Cell, Delhi.
+                              2.     The above-noted FIR was registered after complaints of largescale
+                              cyber cheating were received from various places in Delhi in an
+                              organised manner through website and Apps. It was found that website
+                              www.ezplan.in/login/shareapp/UID/97746 and an App available on
+                              Google Play Store, namely, Power Bank App. were involved in cheating
+                              large number of people. By this app. offer was made to general public to
+                              double their money in a short span of time of 30-35 days and when the
+                              public deposited the money, the same was siphoned off.                   Further,
+                              complaints were also received against the fraud in the name of Power
+                              Bank as well as EZ Plan. The victims sent their screenshots showing that
+                              the payment was made to the accused persons, however, the money
+                              which was to be doubled was not received. During the investigation, it
+                              was revealed that multiple apps. were found attached to the accounts of
+                              various and large scale money was collected through these apps., the
+                              modus operandi being the victim was allured for doubling or instant
+                              increase in their money and the money was collected on the said pretext.
+
+Signature Not Verified
+Digitally Signed By:JUSTICE
+MUKTA GUPTA                   BAIL APPLN.4203/2021 & other connected matters                         Page 2 of 7
+Signing Date:29.01.2022
+12:08:02
+                               Initially, 10-15% of the amount was paid and thereafter the phone was
+                              blocked and not picked up and hence the remaining 85-90% amount was
+                              cheated. The 10-15% amount was found credited from various bank
+                              accounts in the name of various companies.
+                              3.     The Power Bank App. and the website www.ezplan.in started
+                              around March-April, 2021 and were rigorously pushed through social
+                              media platforms like WhatsApp etc. People were given the impression
+                              that these companies were to cater to the demand of power plugs in India
+                              for charging of electric vehicles and out of the profits of the company, it
+                              would share revenue with the investors and within 30-35 days, the
+                              money would be doubled. During the investigation Cyber Crime Unit
+                              came across two mobile apps., that is, Power Bank and EZ Plan and
+                              while Power Bank App. was available on Google Play Store, the EZ Plan
+                              App. was available on the website www.ezplan.in. The returns were
+                              offered on an hourly and daily basis and had investment options starting
+                              from ₹300 to several lakhs.
+                              4.     The forensic analysis of the Power Bank App. revealed that it
+                              projected itself as a Bengaluru based Technology Start-Up involved in
+                              quick charging technology, however, the server on which the app. was
+                              hosted was found to be based in China. The app. also accessed the
+                              camera, external storage etc. and read the contact details of the phone.
+                              Once the user was registered on the apps. he/she was repeatedly induced
+                              to invest money to earn high returns. The app. also induced users to
+                              invite their friends and relatives to join the app. and once someone
+                              invested large amount their account was blocked by the app. thus causing
+                              financial loss to the person investing.
+
+Signature Not Verified
+Digitally Signed By:JUSTICE
+MUKTA GUPTA                   BAIL APPLN.4203/2021 & other connected matters                  Page 3 of 7
+Signing Date:29.01.2022
+12:08:02
+                               5.     Therefore, the payment gateways, that is, UPI IDs, transaction IDs
+                              and bank accounts etc. used by the people indulging into these activities
+                              were identified and analysed along with the connected mobile numbers
+                              and the companies where the cheated money was transferred. It was
+                              revealed that the accused persons, created a web of around 25 shell
+                              companies for routing the money received from the fraudulent
+                              transactions.      Details of the Directors of the shell companies were
+                              obtained and reconnaissance operations were carried out and, in this
+                              regard, simultaneous raids were conducted at West Bengal, Delhi/NCR
+                              and nine persons were arrested including two Chartered Accountants,
+                              namely, Avik Kedia, a resident of Gurgaon and Rounak Bansal, the
+                              petitioner herein, a resident of Katwaria Sarai, Delhi.
+                              6.     The role assigned to the petitioner Rounak Bansal, who is the
+                              Chartered Accountant is that the petitioner worked with Arvind Gupta
+                              and the petitioner was in touch with some Chinese people. Petitioner
+                              with the help of Arvind Gupta changed the Directors of the company
+                              DIDA Tech., who were initially, Umakant, Akash and Abhishek and
+                              substituted Directors, namely, Hariom and Ved Chandra, who were their
+                              known and neighbours and used their documents and thereafter this
+                              company was used by the Chinese for circulating the money. As per the
+                              investigation carried, the petitioner Rounak Kumar Bansal received a
+                              sum of ₹50,000/- as consideration for the transfer of the company into
+                              the name of Hariom and Ved Chandra.              Further, IP address details
+                              received from the RBL Bank regarding the online account function of
+                              DIDA Tech. Pvt. Ltd. was found to be in the name of one Vishnu Kumar
+                              Bansal, accountant who is the father of Rounak Kumar Bansal. Though,
+
+
+Signature Not Verified
+Digitally Signed By:JUSTICE
+MUKTA GUPTA                   BAIL APPLN.4203/2021 & other connected matters                    Page 4 of 7
+Signing Date:29.01.2022
+12:08:02
+                               it is claimed in the investigation that the petitioner operated this bank
+                              account of DIDA Tech. in RBL Bank on 21st May, 2021, 22nd May, 2021
+                              and 1st June, 2021, however, the balance sheet reveals that the last
+                              operation in this account was on 17th May, 2021. It appears that on
+                              coming to know of the gravity of offence, the petitioner tried to check up
+                              when this operation of the bank account on 21st May, 2021, 22nd May,
+                              2021 and 1st June, 2021 is reflected, though their appears to be no
+                              transaction. Further, allegation against the petitioner Rounak Bansal is
+                              that the two Directors substituted i.e. Hariom and Ved Chandra had
+                              nothing to do with the company and were put by the petitioner which
+                              company was then used for routing the funds to other company. From
+                              the investigation carried out so far it has not been revealed that from any
+                              of the transactions, the petitioner Rounak Kumar Bansal received any
+                              financial benefit except for this remuneration for removal of the
+                              Directors of the company DIDA Tech. Pvt. Ltd. and for substitution of
+                              the Directors Hariom and Ved Chandra.
+                              7.     As regards the role assigned to S. K. Robin is concerned, it is
+                              stated that the petitioner acted as the OTP provider for the different
+                              gateways. On analysis of certain UPI numbers, it was found that they
+                              were connected with the common mobile number 6289820051 through
+                              message only and the said mobile number was in the name of the present
+                              petitioner. The investigation further revealed that various numbers used
+                              for UPI payments were being used by S.K. Robin while he was stationed
+                              at Howrah, West Bengal. Various IMEI numbers were used which
+                              belonged to various peoples residing in different parts of India but after
+                              opening accounts and after opening the UPIs their location shifted to
+
+
+Signature Not Verified
+Digitally Signed By:JUSTICE
+MUKTA GUPTA                   BAIL APPLN.4203/2021 & other connected matters                  Page 5 of 7
+Signing Date:29.01.2022
+12:08:02
+                               Uluberia area Howrah, West Bengal and most of UPIs were used by S.
+                              K. Robin. During investigation, the petitioner revealed that he was in
+                              touch with some Chinese people through Telegram and WhatsApp and
+                              that they were having telegram numbers of Combodia. They used to
+                              send money to him for purchasing mobiles, bank documents and sim
+                              cards through courier services. On receipt of OTPs, he used to share the
+                              same with the Chinese people who would thereafter transfer the money
+                              to their gateways. The chats recovered from the mobile phone of the
+                              petitioner S. K. Robin revealed images which showed that Robin was
+                              managing the UPI transactions through large number of bank accounts
+                              and using large number of mobile phones with SMS Monitoring App and
+                              sending important information UPI-ID, internet banking IDs, passwords,
+                              debit card numbers and their CVV numbers, OTPs, etc. to the Chinese
+                              companies. After the arrest of S. K. Robin 33 mobile phones were
+                              recovered from him and he had the custody of 69 bank account
+                              documents.
+                              8.     The role assigned to S.K. Ramizuddin Nawaz was that S. K Robin
+                              had also given bank account of one of his known person, namely, S.K.
+                              Ramizuddin Nawaz and on perusal of the Ramizuddin Nawaz's bank
+                              details it was found that a sum of 24 lakhs was transferred, which was
+                              further re-transferred to the main accounts of the Chinese people.
+                              9.     Considering the role assigned to the Rounak Kumar Bansal and
+                              S.K. Ramizuddin Nawaz and that they are in custody since 2nd June,
+                              2021, this Court deems it fit to grant regular bail to these two petitioners.
+                              It is therefore, directed that Rounak Kumar Bansal and S.K. Ramizuddin
+                              Nawaz be released on bail on their furnishing personal bonds in the sum
+
+
+Signature Not Verified
+Digitally Signed By:JUSTICE
+MUKTA GUPTA                   BAIL APPLN.4203/2021 & other connected matters                    Page 6 of 7
+Signing Date:29.01.2022
+12:08:02
+                               of ₹50,000/- each with two surety bonds each of the like amount to the
+                              satisfaction of the learned Trial Court/CMM/Duty Magistrate, further
+                              subject to the condition that the petitioners will not leave the country
+                              without the prior permission of the court concerned and in case of change
+                              of residential address and/or mobile phone number the same will be
+                              intimated to the court concerned by way of an affidavit. Considering the
+                              role assigned to the petitioner S.K.Robin, this Court does not find it a fit
+                              case to grant bail to him.
+                              10.    Consequently, BAIL APPLN. 4203/2021 and BAIL APPLN.
+                              4376/2021 are disposed of and BAIL APPLN. 4368/2021 is dismissed.
+                              11.    Order be uploaded on the website of this Court.
+
+                                                                                   MUKTA GUPTA, J
+                              JANUARY 28, 2022
+                              MK
+
+
+
+
+Signature Not Verified
+Digitally Signed By:JUSTICE
+MUKTA GUPTA                   BAIL APPLN.4203/2021 & other connected matters                   Page 7 of 7
+Signing Date:29.01.2022
+12:08:02
+ 
+
+
+
+
+
+
+
+
+
+
+
